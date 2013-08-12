@@ -1,5 +1,3 @@
-package findprime;
-
 import java.util.Scanner;
 
 public class findprime
